@@ -1,0 +1,14 @@
+{
+    "tasks": [
+    {
+        "name": "task1",
+        "time": "2023-12-01T10:00:00Z",
+        "repeat": null
+    },
+    {
+        "name": "task2",
+        "time":"2023-12-01T11:00:00Z",
+        "repeat": 60000
+    }
+    ]
+}
